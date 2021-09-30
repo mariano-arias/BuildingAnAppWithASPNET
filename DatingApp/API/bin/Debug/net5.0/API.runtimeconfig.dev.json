@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\mariano.arias\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mariano.arias\\.nuget\\packages"
-    ]
-  }
-}
